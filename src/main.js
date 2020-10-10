@@ -16,7 +16,7 @@ window.onload = function() {
                     ],
                     color: "#256fe8",
                     previous: 44.45,
-                    current: 0
+                    current: 30.81
                 },
                 {
                     abbreviation: "LAB",
@@ -28,7 +28,19 @@ window.onload = function() {
                     ],
                     color: "#e52b2b",
                     previous: 36.89,
-                    current: 0
+                    current: 48.65
+                },
+                {
+                    abbreviation: "NZF",
+                    alias: "nzf",
+                    name: "New Zealand First",
+                    list: null,
+                    leaders: [
+                        "Winston Peters"
+                    ],
+                    color: "#333333",
+                    previous: 7.20,
+                    current: 3.24
                 },
                 {
                     abbreviation: "GRN",
@@ -36,36 +48,74 @@ window.onload = function() {
                     name: "Green",
                     list: null,
                     leaders: [
-                        "CheerfullyPutrid",
-                        "UncookedMeatloaf"
+                        "Marama Davidson",
+                        "James Shaw"
                     ],
                     color: "#00c760",
-                    previous: 33.44,
-                    current: 24.33
+                    previous: 6.27,
+                    current: 5.60
                 },
                 {
-                    abbreviation: "MHA",
-                    alias: "mana",
-                    name: "Mana Hapori",
+                    abbreviation: "ACT",
+                    alias: "act",
+                    name: "ACT",
                     list: null,
                     leaders: [
-                        "Captain_Plat_2258"
+                        "David Seymour"
                     ],
-                    color: "#ff004f",
-                    previous: 7.93,
-                    current: 13.02
+                    color: "#f9df13",
+                    previous: 0.50,
+                    current: 6.74
                 },
                 {
-                    abbreviation: "FOR",
-                    alias: "forwards",
-                    name: "Forwards!",
+                    abbreviation: "TOP",
+                    alias: "top",
+                    name: "The Opportunities Party",
                     list: null,
                     leaders: [
-                        "toastinrussian"
+                        "Geoff Simmons"
                     ],
-                    color: "#0066ff",
-                    previous: 6.35,
-                    current: 8.34
+                    color: "#32DAC3",
+                    previous: 2.44,
+                    current: 1
+                },
+                {
+                    abbreviation: "MAO",
+                    alias: "maori",
+                    name: "Maori",
+                    list: null,
+                    leaders: [
+                        "John Tamihere",
+                        "Debbie Ngarewa-Packer"
+                    ],
+                    color: "#841100",
+                    previous: 1.18,
+                    current: 1
+                },
+                {
+                    abbreviation: "NCP",
+                    alias: "conservatives",
+                    name: "New Conservatives",
+                    list: null,
+                    leaders: [
+                        "Leighton Baker"
+                    ],
+                    color: "#00AEEF",
+                    previous: 0.24,
+                    current: 1
+                },
+                {
+                    abbreviation: "ANZ",
+                    alias: "advance",
+                    name: "Advance NZ",
+                    list: null,
+                    leaders: [
+                        "Jami-Lee Ross",
+                        "Billy Te Kahika"
+                    ],
+                    color: "#1987D1",
+                    previous: 0,
+                    current: 1
                 }
             ],
 
@@ -456,7 +506,7 @@ window.onload = function() {
 
                 this.seats = seats;
                 this.totalSeats = seats.reduce((acc, x) => acc += x.seats, 0);
-                this.overhangSeats = Math.max(0, this.totalSeats - 21);
+                this.overhangSeats = Math.max(0, this.totalSeats - 120);
 
                 return seats;
             },

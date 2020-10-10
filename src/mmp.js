@@ -6,7 +6,7 @@ window.calculateMMP = function(parties, electorates, total) {
             total = parties.reduce((acc, x) => acc += x.votes, 0);
         }
 
-        let numQuotas = 21;
+        let numQuotas = 120;
         let validParties = [];
         
         for (let i in parties) {
