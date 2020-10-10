@@ -291,10 +291,9 @@ window.onload = function() {
                     if (fields.length < 4) continue;
 
                     let name = fields[0];
-                    //let lastName = fields[1];
-                    let firstName = fields[2];
-                    let party = this.parties.find(x => x.alias == fields[3]) || fields[3];
-                    let incumbent = fields[4] === "true";
+                    let candidateName = fields[1];
+                    let party = this.parties.find(x => x.alias == fields[2]) || fields[2];
+                    let incumbent = fields[3] === "true";
 
                     if (party === '') party = "Independent";
 
@@ -313,7 +312,7 @@ window.onload = function() {
                     }
 
                     let candidate = {
-                        name: firstName,
+                        name: candidateName,
                         party: party
                     };
 
@@ -410,11 +409,6 @@ window.onload = function() {
                     let override = false;
 
                     switch (party) {
-                        case "Conservative":
-                            abbreviation = "CON";
-                            color = "#56B3FF";
-                            break;
-
                         case "Aotearoa Legalise Cannabis Party":
                             abbreviation = "ALCP";
                             color = "#88e2a0";
