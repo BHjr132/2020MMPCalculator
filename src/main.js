@@ -144,9 +144,7 @@ window.onload = function() {
         created: function() {
             this.loadPartyList("green", "data/Green.csv");
             this.loadPartyList("labour", "data/Labour.csv");
-            this.loadPartyList("mana", "data/Mana.csv");
             this.loadPartyList("national", "data/National.csv");
-            this.loadPartyList("forwards", "data/Forwards.csv");
 
             this.loadElectorates("data/electorates.csv");
 
