@@ -154,9 +154,9 @@ window.onload = function() {
 
             this.loadElectorates("data/electorates.csv");
 
-            //for (let i in this.parties) {
-            //    this.parties[i].current = this.parties[i].previous;
-            //}
+            for (let i in this.parties) {
+                this.parties[i].current = this.parties[i].previous;
+            }
         },
 
         methods: {
