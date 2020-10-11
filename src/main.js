@@ -145,6 +145,12 @@ window.onload = function() {
             this.loadPartyList("green", "data/Green.csv");
             this.loadPartyList("labour", "data/Labour.csv");
             this.loadPartyList("national", "data/National.csv");
+            this.loadPartyList("nzf", "data/NZF.csv");
+            this.loadPartyList("act", "data/ACT.csv");
+            this.loadPartyList("top", "data/TOP.csv");
+            this.loadPartyList("maori", "data/Maori.csv");
+            this.loadPartyList("conservatives", "data/NewCons.csv");
+            this.loadPartyList("advance", "data/Advance.csv");
 
             this.loadElectorates("data/electorates.csv");
 

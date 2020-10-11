@@ -85,10 +85,10 @@ Hutt South,Chris Bishop,national,TRUE
 Hutt South,Roger Earp,conservatives,FALSE
 Hutt South,Mahesh Bindra,nzf,FALSE
 Hutt South,Ben Wylie-van Eerd,top,FALSE
-Ikaroa-R?whiti,Elizabeth Kerekere,green,FALSE
-Ikaroa-R?whiti,Meka Whaitiri,labour,TRUE
-Ikaroa-R?whiti,Heather Te Au-Skipworth,maori,FALSE
-Ikaroa-R?whiti,Melissa Hill,conservatives,FALSE
+Ikaroa-Rawhiti,Elizabeth Kerekere,green,FALSE
+Ikaroa-Rawhiti,Meka Whaitiri,labour,TRUE
+Ikaroa-Rawhiti,Heather Te Au-Skipworth,maori,FALSE
+Ikaroa-Rawhiti,Melissa Hill,conservatives,FALSE
 Ilam,Paul Gilbert,act,FALSE
 Ilam,David Bennett,green,FALSE
 Ilam,Sarah Pallett,labour,FALSE
@@ -99,12 +99,12 @@ Invercargill,Liz Craig,labour,FALSE
 Invercargill,Penny Simmonds,national,TRUE
 Invercargill,Joshua Honiss,conservatives,FALSE
 Invercargill,Joshua Gunn,nzf,FALSE
-Kaik?ura,Richard Evans,act,FALSE
-Kaik?ura,Richard McCubbin,green,FALSE
-Kaik?ura,Matt Flight,labour,FALSE
-Kaik?ura,Stuart Smith,national,TRUE
-Kaik?ura,David John Greenslade,conservatives,FALSE
-Kaik?ura,Jamie Arbuckle,nzf,FALSE
+Kaikoura,Richard Evans,act,FALSE
+Kaikoura,Richard McCubbin,green,FALSE
+Kaikoura,Matt Flight,labour,FALSE
+Kaikoura,Stuart Smith,national,TRUE
+Kaikoura,David John Greenslade,conservatives,FALSE
+Kaikoura,Jamie Arbuckle,nzf,FALSE
 Kaipara ki Mahurangi,Beth Houlbrooke,act,FALSE
 Kaipara ki Mahurangi,Zephyr Brown,green,FALSE
 Kaipara ki Mahurangi,Marja Lubeck,labour,FALSE
@@ -121,10 +121,10 @@ Mana,Jan Logie,green,FALSE
 Mana,Barbara Edmonds,labour,TRUE
 Mana,Jo Hayes,national,FALSE
 Mana,Roy Barry,conservatives,FALSE
-M?ngere,Peter Brian Sykes,green,FALSE
-M?ngere,Aupito William Sio,labour,TRUE
-M?ngere,Agnes Loheni,national,FALSE
-M?ngere,Fuiavailili Alailima,conservatives,FALSE
+Mangere,Peter Brian Sykes,green,FALSE
+Mangere,Aupito William Sio,labour,TRUE
+Mangere,Agnes Loheni,national,FALSE
+Mangere,Fuiavailili Alailima,conservatives,FALSE
 Manurewa,Lourdes Vano,green,FALSE
 Manurewa,Arena Williams,labour,TRUE
 Manurewa,Nuwi Samarakone,national,FALSE
@@ -184,18 +184,18 @@ Northland,Matt King,national,TRUE
 Northland,Trevor Barfoote,conservatives,FALSE
 Northland,Shane Jones,nzf,FALSE
 Northland,Helen Jeremiah,top,FALSE
-?h?riu,Sean Fitzpatrick,act,FALSE
-?h?riu,John Ranta,green,FALSE
-?h?riu,Greg O'Connor,labour,TRUE
-?h?riu,Brett Hudson,national,FALSE
-?h?riu,Philip M Lynch,conservatives,FALSE
-?h?riu,Tracey Martin,nzf,FALSE
-?h?riu,Jessica Hammon,top,FALSE
-?taki,Wayne Desmond Grattan,act,FALSE
-?taki,Bernard Long,green,FALSE
-?taki,Terisa Ngobi,labour,FALSE
-?taki,Tim Costley,national,TRUE
-?taki,Martin Frauenstein,conservatives,FALSE
+Ohariu,Sean Fitzpatrick,act,FALSE
+Ohariu,John Ranta,green,FALSE
+Ohariu,Greg O'Connor,labour,TRUE
+Ohariu,Brett Hudson,national,FALSE
+Ohariu,Philip M Lynch,conservatives,FALSE
+Ohariu,Tracey Martin,nzf,FALSE
+Ohariu,Jessica Hammon,top,FALSE
+Otaki,Wayne Desmond Grattan,act,FALSE
+Otaki,Bernard Long,green,FALSE
+Otaki,Terisa Ngobi,labour,FALSE
+Otaki,Tim Costley,national,TRUE
+Otaki,Martin Frauenstein,conservatives,FALSE
 Pakuranga,Mo Yee Poon,act,FALSE
 Pakuranga,Lawrence Xu-Nan,green,FALSE
 Pakuranga,Nerissa Henry,labour,FALSE
@@ -207,10 +207,10 @@ Palmerston North,Tangi Utikere,labour,TRUE
 Palmerston North,William Wood,national,FALSE
 Palmerston North,David Poppelwell,conservatives,FALSE
 Palmerston North,Darroch Ball,nzf,FALSE
-Panmure-?t?huhu,Mark Simiona,green,FALSE
-Panmure-?t?huhu,Jenny Salesa,labour,TRUE
-Panmure-?t?huhu,Kanwaljit Singh Bakshi,national,FALSE
-Panmure-?t?huhu,Ted Johnston,conservatives,FALSE
+Panmure-Otahuhu,Mark Simiona,green,FALSE
+Panmure-Otahuhu,Jenny Salesa,labour,TRUE
+Panmure-Otahuhu,Kanwaljit Singh Bakshi,national,FALSE
+Panmure-Otahuhu,Ted Johnston,conservatives,FALSE
 Papakura,Bruce Whitehead,act,FALSE
 Papakura,Sue Cowie,green,FALSE
 Papakura,Anahila Kanongata'a-Suisuiki,labour,FALSE
@@ -227,12 +227,12 @@ Rangitata,Gerrie Ligtenberg,green,FALSE
 Rangitata,Jo Luxton,labour,FALSE
 Rangitata,Megan Hands,national,TRUE
 Rangitata,Lachie Ashton,conservatives,FALSE
-Rangit?kei,Neil John Wilson,act,FALSE
-Rangit?kei,Ali Hale Tilley,green,FALSE
-Rangit?kei,Soraya Peke-Mason,labour,FALSE
-Rangit?kei,Ian McKelvie,national,TRUE
-Rangit?kei,Rueben Leung Wai,conservatives,FALSE
-Rangit?kei,Antony Woollams,nzf,FALSE
+Rangitikei,Neil John Wilson,act,FALSE
+Rangitikei,Ali Hale Tilley,green,FALSE
+Rangitikei,Soraya Peke-Mason,labour,FALSE
+Rangitikei,Ian McKelvie,national,TRUE
+Rangitikei,Rueben Leung Wai,conservatives,FALSE
+Rangitikei,Antony Woollams,nzf,FALSE
 Remutaka,Grae O'Sullivan,act,FALSE
 Remutaka,Chris Norton,green,FALSE
 Remutaka,Chris Hipkins,labour,TRUE
@@ -272,24 +272,24 @@ Takanini,Mike McCormick,act,FALSE
 Takanini,Neru Leavasa,labour,FALSE
 Takanini,Rima Nakhle,national,TRUE
 Takanini,Elliot Ikelei,conservatives,FALSE
-T?maki,Carmel Claridge,act,FALSE
-T?maki,Sylvia Boys,green,FALSE
-T?maki,Shirin Brown,labour,FALSE
-T?maki,Simon O'Connor,national,TRUE
-T?maki,Paul Sommer,conservatives,FALSE
-T?maki Makaurau,Marama Davidson,green,FALSE
-T?maki Makaurau,Peeni Henare,labour,TRUE
-T?maki Makaurau,John Tamihere,maori,FALSE
-T?maki Makaurau,Erina Anderson,conservatives,FALSE
+Tamaki,Carmel Claridge,act,FALSE
+Tamaki,Sylvia Boys,green,FALSE
+Tamaki,Shirin Brown,labour,FALSE
+Tamaki,Simon O'Connor,national,TRUE
+Tamaki,Paul Sommer,conservatives,FALSE
+Tamaki Makaurau,Marama Davidson,green,FALSE
+Tamaki Makaurau,Peeni Henare,labour,TRUE
+Tamaki Makaurau,John Tamihere,maori,FALSE
+Tamaki Makaurau,Erina Anderson,conservatives,FALSE
 Taranaki-King Country,Brent Miles,act,FALSE
 Taranaki-King Country,Angela Roberts,labour,FALSE
 Taranaki-King Country,Barbara Kuriger,national,TRUE
 Taranaki-King Country,Lee Anne Smith,conservatives,FALSE
-Taup?,David Freeman,act,FALSE
-Taup?,Danna Glendining,green,FALSE
-Taup?,Ala' Al-Bustanji,labour,FALSE
-Taup?,Louise Upston,national,TRUE
-Taup?,Jan-Marie Quinn,conservatives,FALSE
+Taupo,David Freeman,act,FALSE
+Taupo,Danna Glendining,green,FALSE
+Taupo,Ala' Al-Bustanji,labour,FALSE
+Taupo,Louise Upston,national,TRUE
+Taupo,Jan-Marie Quinn,conservatives,FALSE
 Tauranga,Cameron Luxton,act,FALSE
 Tauranga,Josh Cole,green,FALSE
 Tauranga,Jan Tinetti,labour,FALSE
@@ -297,15 +297,15 @@ Tauranga,Simon Bridges,national,TRUE
 Tauranga,Paul Hignett,conservatives,FALSE
 Tauranga,Erica Harvey,nzf,FALSE
 Tauranga,Andrew Caie,top,FALSE
-Te Atat?,Simon Court,act,FALSE
-Te Atat?,Scott Hindman,green,FALSE
-Te Atat?,Phil Twyford,labour,TRUE
-Te Atat?,Alfred Ngaro,national,FALSE
-Te Atat?,Okusitino Paseka,conservatives,FALSE
-Te Atat?,Brendon Monk,top,FALSE
-Te Tai Hau?uru,Adrian Rurawhe,labour,TRUE
-Te Tai Hau?uru,Debbie Ngarewa Packer,maori,FALSE
-Te Tai Hau?uru,Joshua Morgan,conservatives,FALSE
+Te Atatu,Simon Court,act,FALSE
+Te Atatu,Scott Hindman,green,FALSE
+Te Atatu,Phil Twyford,labour,TRUE
+Te Atatu,Alfred Ngaro,national,FALSE
+Te Atatu,Okusitino Paseka,conservatives,FALSE
+Te Atatu,Brendon Monk,top,FALSE
+Te Tai Hauauru,Adrian Rurawhe,labour,TRUE
+Te Tai Hauauru,Debbie Ngarewa Packer,maori,FALSE
+Te Tai Hauauru,Joshua Morgan,conservatives,FALSE
 Te Tai Tokerau,Kelvin Davis,labour,TRUE
 Te Tai Tokerau,Mariameno Kapa-Kingi,maori,FALSE
 Te Tai Tokerau,Daniel Shortland,conservatives,FALSE
@@ -362,17 +362,17 @@ Whanganui,Alan Clay,green,FALSE
 Whanganui,Steph Lewis,labour,FALSE
 Whanganui,Harete Hipango,national,TRUE
 Whanganui,Jonathan Marshall,conservatives,FALSE
-Whangapar?oa,Paul Grace,act,FALSE
-Whangapar?oa,Lorayne Frances Ferguson,labour,FALSE
-Whangapar?oa,Mark Mitchell,national,TRUE
-Whangapar?oa,Fiona Mackenzie,conservatives,FALSE
-Whang?rei,David Seymour,act,FALSE
-Whang?rei,Moea Armstrong,green,FALSE
-Whang?rei,Emily Henderson,labour,FALSE
-Whang?rei,Shane Reti,national,TRUE
-Whang?rei,Kerry Campbell,conservatives,FALSE
-Whang?rei,David Wilson,nzf,FALSE
-Whang?rei,Ciara Swords,top,FALSE
+Whangaparaoa,Paul Grace,act,FALSE
+Whangaparaoa,Lorayne Frances Ferguson,labour,FALSE
+Whangaparaoa,Mark Mitchell,national,TRUE
+Whangaparaoa,Fiona Mackenzie,conservatives,FALSE
+Whangarei,David Seymour,act,FALSE
+Whangarei,Moea Armstrong,green,FALSE
+Whangarei,Emily Henderson,labour,FALSE
+Whangarei,Shane Reti,national,TRUE
+Whangarei,Kerry Campbell,conservatives,FALSE
+Whangarei,David Wilson,nzf,FALSE
+Whangarei,Ciara Swords,top,FALSE
 Wigram,Miles McConway,act,FALSE
 Wigram,Richard Wesley,green,FALSE
 Wigram,Megan Woods,labour,TRUE
